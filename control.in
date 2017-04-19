@@ -1,0 +1,10 @@
+Package: @@PACKAGE@@
+Section: utils
+Version: @@VERSION@@
+Priority: optional
+Architecture: all
+Homepage: http://www.enterpriseve.com/
+Maintainer: EnterpriseVE Support Team <support@enterpriseve.com>
+Description: Merge Diff file To Image for Ceph 
+ This package contains the EnterpriseVE Merge Diff file To Image for Ceph.
+ 
